@@ -41,3 +41,21 @@
 1. Клонировать репозиторий:
 ```bash
 git clone https://github.com/enakaeeeena/react-app.git
+```
+2. Установить зависимости:
+```bash
+npm install
+```
+2. Запустить приложение:
+```
+bash
+npm run dev
+```
+## Структура компонентов
+```
+App.tsx
+├── Buttons.tsx        // Компонент задания 1
+├── ClickCounter.tsx   // Компонент задания 2
+└── SortableTable.tsx  // Компонент задания 3
+```
+
