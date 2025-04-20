@@ -5,8 +5,7 @@
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3.1-purple)](https://getbootstrap.com)
 
 Приложение с тремя независимыми заданиями, демонстрирующее ключевые навыки работы с React
-
-![Скриншот приложения](screenshot.png)
+![react-app](https://github.com/user-attachments/assets/2744982a-c76a-4b10-8e3d-b5cf819ab3a0)
 
 ## Особенности
 1. **Независимые кликеры**:
