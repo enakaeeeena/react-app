@@ -11,23 +11,25 @@
    - Динамическое создание N кнопок-счетчиков
    - Визуальное выделение последней нажатой кнопки
    - Локальный стейт для каждого счетчика
-   ![clicker1](https://github.com/user-attachments/assets/b1a15f12-ec02-44af-823d-a22299100ec6)
+     
+![clicker1](https://github.com/user-attachments/assets/b1a15f12-ec02-44af-823d-a22299100ec6)
 
 2. **Умный мультиязычный счетчик**:
    - Поддержка русского и английского языков
    - Плюрализация с учетом языка:
      - "1 клик", "2 клика", "5 кликов" (рус)
      - "1 click", "2 clicks" (англ)
-   - Динамическое переключение
-     ![clicker2](https://github.com/user-attachments/assets/a6a49f06-6156-488d-9f28-fcdeaca04a28)
- языков
+   - Динамическое переключение языков
+
+![clicker2](https://github.com/user-attachments/assets/a6a49f06-6156-488d-9f28-fcdeaca04a28)
 
 3. **Интерактивная таблица**:
    - Сортировка по всем колонкам
    - Трехстадийная сортировка (asc → desc → none)
    - Адаптивный дизайн
    - Динамическое определение колонок
-   ![Uploading sortable_table.gif…]()
+
+![sortable_table](https://github.com/user-attachments/assets/4e1e6c0b-4e78-4b0a-bc7b-adcc8a3fe7dd)
 
 
 ## Технологии
