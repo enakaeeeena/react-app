@@ -47,8 +47,7 @@ git clone https://github.com/enakaeeeena/react-app.git
 npm install
 ```
 2. Запустить приложение:
-```
-bash
+``` bash
 npm run dev
 ```
 ## Структура компонентов
